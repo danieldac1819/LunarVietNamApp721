@@ -2,6 +2,17 @@
 
 Ứng dụng lịch và tiện ích dành cho Windows.
 
+## Tương thích và runtime
+
+- **Kiến trúc:** bản AnyCPU chạy trên Windows 10 32-bit (x86) hoặc 64-bit (x64); Windows 11 chỉ có bản 64-bit.
+- **Windows:** Windows 10 phiên bản 1607 trở lên và Windows 11. README không công bố hỗ trợ Windows 7 hoặc Windows 8.1.
+- **Runtime:** cần .NET Framework 4.7 trở lên thuộc dòng .NET Framework 4.x. Các bản 4.x mới hơn như 4.8 hoặc 4.8.1 tương thích với ứng dụng nhắm mục tiêu .NET Framework 4.7.
+- Windows 11 thường đã có .NET Framework 4.8/4.8.1. Nếu máy thiếu runtime, tải **.NET Framework 4.8.1 Runtime** từ [trang chính thức của Microsoft](https://dotnet.microsoft.com/download/dotnet-framework/net481) và chọn bộ cài đúng kiến trúc Windows.
+- Nên sử dụng phiên bản Windows còn được Microsoft hỗ trợ.
+
+Danh sách tương thích hệ điều hành và kiến trúc dựa trên [yêu cầu hệ thống .NET Framework của Microsoft](https://learn.microsoft.com/dotnet/framework/get-started/system-requirements).
+
+
 ## hướng dẫn tải xuống
 <img width="950" height="438" alt="image" src="https://github.com/user-attachments/assets/689d308d-2f90-41dd-b5c2-2946016eb9d7" />
 
