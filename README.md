@@ -19,6 +19,7 @@
 ## giao diện chính
 <img width="497" height="740" alt="image" src="https://github.com/user-attachments/assets/291e550f-7117-44ed-ac4d-655ed8c8d13a" />
 
+## thêm lối tắt truy cập nhanh cho tất cả ứng dụng,thư mục, tập tin
 <img width="1581" height="703" alt="image" src="https://github.com/user-attachments/assets/690e7ab6-cc52-4298-8478-85f1c2a36c36" />
 
 <img width="1124" height="663" alt="image" src="https://github.com/user-attachments/assets/34f97ae2-4935-4d2a-9e19-18981d9a0cbe" />
