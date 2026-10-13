@@ -2,6 +2,9 @@
 
 Ứng dụng lịch và tiện ích dành cho Windows.
 
+## hướng dẫn tải xuống
+<img width="950" height="438" alt="image" src="https://github.com/user-attachments/assets/689d308d-2f90-41dd-b5c2-2946016eb9d7" />
+
 ## Chức năng
 
 - Xem lịch âm và lịch dương theo tháng, kèm thông tin ngày hiện tại.
